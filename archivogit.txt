@@ -1,2 +1,4 @@
 versión original del archivo
 Y ahora le añado esta línea
+Tercera versión del archivo
+Cuarta versión del archivo archivogit.txt
